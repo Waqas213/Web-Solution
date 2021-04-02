@@ -1,0 +1,18 @@
+/* CSS Document */
+.header
+{
+height:60px;
+color:#FFFFFF;
+background-color:#CC00CC;
+}
+.list li
+{
+display:inline;
+color:white;
+text-decoration:none;
+}
+.list li a
+{
+color:#fff;
+padding:0px 8px;
+}
